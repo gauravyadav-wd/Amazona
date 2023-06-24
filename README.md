@@ -1,6 +1,6 @@
-#MERN AMAZONA
+# MERN AMAZONA
 
-#Lessons
+# Lessons
 
 1. Introduction
 2. Install tools
