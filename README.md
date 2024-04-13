@@ -3,8 +3,8 @@
 Amazona is not amazon but a dummy ecommerce application which just shows some mushrooms with the weird naming coming from the backend 🍄. I have made this project in the very early stages of my learning.
 
 <div style="display:flex;">
-<img src="screenshots/Capture1.PNG" alt="Screenshot" width="400" >
-<img src="screenshots/Capture2.PNG" alt="Screenshot" width="400" >
+<img src="screenshots/Capture1.PNG" alt="Screenshot" width="500" >
+<img src="screenshots/Capture2.PNG" alt="Screenshot" width="500" >
 </div>
 
 ## Objectives
