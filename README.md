@@ -1,6 +1,9 @@
 # Amazona
 
-Amazona is not amazon but a dummy ecommerce application which just shows some mushrooms coming from the backend 🍄. I have made this project in the very early stages of my learning.
+Amazona is not amazon but a dummy ecommerce application which just shows some mushrooms with the weird naming coming from the backend 🍄. I have made this project in the very early stages of my learning.
+
+![Screenshot](screenshots/Capture1.png)
+![Screenshot](screenshots/Capture2.png)
 
 ## Objectives
 
